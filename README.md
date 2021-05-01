@@ -1,6 +1,6 @@
 ### 👋 Hi there, Welcome to my GitHub!
   
-- 🌱 I’m currently learning iOS develop
+- 🌱 I’m currently learning iOS App develop
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bo1126&hide=contribs,prs&theme=dark)
    

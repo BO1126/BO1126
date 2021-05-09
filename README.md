@@ -2,7 +2,8 @@
   
 - 🌱 I’m currently learning iOS App develop
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bo1126&hide=contribs,prs&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bo1126&hide=contribs)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BO1126&layout=compact&hide=jupyter_notebook)](https://github.com/BO1126/github-readme-stats)
    
    
 - #### Programming Language  

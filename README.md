@@ -1,4 +1,4 @@
-### 👋 Hi there, Welcome to my GitHub!
+## 👋 Hi there, Welcome to my GitHub!
   
 - 🌱 I’m currently learning iOS App develop
   
@@ -6,14 +6,15 @@
 
    
    
-- #### Main Tech Stack
+- ### Main Tech Stack
   <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
   
     
-- My blog -> https://bo1126.tistory.com
+- ### My blog
+  https://bo1126.tistory.com
   
   
   

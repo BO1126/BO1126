@@ -12,9 +12,4 @@
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> 
   
-    
-- ### My blog
-  https://bo1126.tistory.com
-  
-  
   

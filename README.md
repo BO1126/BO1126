@@ -2,7 +2,7 @@
   
 - 🌱 I’m currently learning iOS App develop
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bo1126&hide=contribs)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bo1126&hide=contribs)   
 
    
    
